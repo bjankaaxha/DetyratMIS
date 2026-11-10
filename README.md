@@ -19,5 +19,5 @@
 * Për ta lidhur me përgjigjen e pyetjes së mësipërme, studentët marrin njohuri praktike koherente që u ndihmojnë të zhvillojnë aftësi nga më të ndryshme, me synim të sigurimit të një vendi pune. Përfitimi i universiteteve qëndron pikërisht te fitimi i besuesmërisë që këta studentë kanë te ato. Universitetet mund të frikësohen se studentët fillojnë të zgjedhin kurse të shkurtra online në vend të diplomave 3-vjeçare por duke inkorporuar mësim të kombinuar, ku teoria zhvillohet në auditor dhe praktika me platforma si Pluralsight është rasti ku përfitojnë të dyja palët.
 
 ## Pyetja 1-15. Rreziqet e Pluralsight, konkurrenca dhe mbrojtja
-* A mund ta kopjojë një gjigant teknologjik? Patjetër që po, kompani si Microsoft apo Google mund të krijojnë platformat e tyre, por Pluralsight ka avantazhin se është "neutral" dhe ofron trajnime për të gjitha teknologjitë.
+* A mund ta kopjojë një "gjigant teknologjik"? Patjetër që po, kompani si Microsoft apo Google mund të krijojnë platformat e tyre, por Pluralsight ka avantazhin se është "neutral" dhe ofron trajnime për të gjitha teknologjitë.
   
