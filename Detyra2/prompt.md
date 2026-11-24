@@ -1,0 +1,5 @@
+# Prompt Used in ChatGPT
+
+Perform a sentiment analysis of the following Italian restaurant review. Identify the overall sentiment, the positive and negative aspects of the customer experience, and recommend improvements that could help the restaurant attract more customers.
+
+“The food we ordered came out at once, with everyone passing dishes to the ends of the table to ensure each of us was able to try everything we ordered. The most memorable dishes were ravioli with spinach and cheese, linguine with seafood, and veal marsala. The restaurant gets very busy on weekends, so the service is slower at that time. When the restaurant is fully occupied, the noise level can be high. Outdoor dining is available during the warmer months but will be too cold to enjoy in winter. I personally would only come here for special occasions or a holiday because it’s quite expensive. There is free parking on Sundays and holidays. I recommend making reservations or arriving at the restaurant before it opens so you don’t have to wait.”
